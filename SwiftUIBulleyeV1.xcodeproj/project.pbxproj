@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A613288265A4AE200AED56E /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A613287265A4AE200AED56E /* AboutView.swift */; };
 		5AD387632647AC9C005E3A36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD387622647AC9C005E3A36 /* AppDelegate.swift */; };
 		5AD387652647AC9C005E3A36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD387642647AC9C005E3A36 /* SceneDelegate.swift */; };
 		5AD387672647AC9C005E3A36 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD387662647AC9C005E3A36 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A613287265A4AE200AED56E /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		5AD3875F2647AC9C005E3A36 /* SwiftUIBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AD387622647AC9C005E3A36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AD387642647AC9C005E3A36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				5AD387682647AC9D005E3A36 /* Assets.xcassets */,
 				5AD3876D2647AC9D005E3A36 /* LaunchScreen.storyboard */,
 				5AD387702647AC9D005E3A36 /* Info.plist */,
+				5A613287265A4AE200AED56E /* AboutView.swift */,
 				5AD3876A2647AC9D005E3A36 /* Preview Content */,
 			);
 			path = SwiftUIBulleyeV1;
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A613288265A4AE200AED56E /* AboutView.swift in Sources */,
 				5AD387632647AC9C005E3A36 /* AppDelegate.swift in Sources */,
 				5AD387652647AC9C005E3A36 /* SceneDelegate.swift in Sources */,
 				5AD387672647AC9C005E3A36 /* ContentView.swift in Sources */,
